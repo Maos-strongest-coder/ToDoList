@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import ToDoList from './components/ToDoList.vue';
+import TodoList from './components/TodoList.vue';
 </script>
 
 <template>
-    <ToDoList />
+    <TodoList />
 </template>
